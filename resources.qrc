@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>resources/icons/settings.png</file>
+        <file>resources/icons/decresult.png</file>
+        <file>resources/icons/getiamge.png</file>
+        <file>resources/icons/refresh.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,45 @@
+# Qt 构建目录
+build/
+release/
+debug/
+*-Debug/
+*-Release/
+Desktop_Qt_*/
+.qtc_clangd/
+*.pro.user
+*.pro.user.*
+*.qm
+
+# 编译产物
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+*.pdb
+*.ilk
+*.exp
+*.res
+
+# Qt 自动生成文件
+moc_*.cpp
+moc_*.h
+ui_*.h
+qrc_*.cpp
+Makefile
+Makefile.*
+.qmake.stash
+
+# 资源编译产物
+*_resource.rc
+
+# 压缩包
+*.rar
+*.zip
+
+# 其他
+*.log
+*.tmp
+*.autosave
